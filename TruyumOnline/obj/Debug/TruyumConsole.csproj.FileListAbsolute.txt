@@ -1,0 +1,14 @@
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\TruyumOnline.exe.config
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\TruyumOnline.exe
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\TruyumOnline.pdb
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\Com.Cognizant.Truyum.Dao.dll
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\Com.Cognizant.Truyum.Model.dll
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\obj\Debug\TruyumConsole.csprojAssemblyReference.cache
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\obj\Debug\TruyumConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\obj\Debug\TruyumConsole.csproj.CopyComplete
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\obj\Debug\TruyumOnline.exe
+C:\Users\Sandeep\Desktop\Truyum Project\TruyumConsole\TruyumOnline\obj\Debug\TruyumOnline.pdb
